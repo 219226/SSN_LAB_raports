@@ -1,0 +1,587 @@
+Starting Nmap 7.70 ( https://nmap.org ) at 2018-11-22 16:21 CET
+Nmap scan report for hip.ict.pwr.wroc.pl (156.17.40.1)
+Host is up (0.0014s latency).
+All 1000 scanned ports on hip.ict.pwr.wroc.pl (156.17.40.1) are closed
+
+Nmap scan report for hop.ict.pwr.wroc.pl (156.17.40.2)
+Host is up (0.0021s latency).
+All 1000 scanned ports on hop.ict.pwr.wroc.pl (156.17.40.2) are closed
+
+Nmap scan report for lak.ict.pwr.wroc.pl (156.17.40.28)
+Host is up (0.00087s latency).
+Not shown: 995 filtered ports
+PORT     STATE SERVICE  VERSION
+22/tcp   open  ssh      OpenSSH 5.3p1 Debian 3ubuntu7.1 (Ubuntu Linux; protocol 2.0)
+111/tcp  open  rpcbind  2 (RPC #100000)
+389/tcp  open  ldap     OpenLDAP 2.2.X - 2.3.X
+2049/tcp open  nfs      2-4 (RPC #100003)
+3690/tcp open  svnserve Subversion
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+Nmap scan report for hip.ict.pwr.wroc.pl (156.17.40.33)
+Host is up (0.0016s latency).
+All 1000 scanned ports on hip.ict.pwr.wroc.pl (156.17.40.33) are closed
+
+Nmap scan report for alkasiel.ict.pwr.wroc.pl (156.17.40.46)
+Host is up (0.00054s latency).
+All 1000 scanned ports on alkasiel.ict.pwr.wroc.pl (156.17.40.46) are filtered
+
+Nmap scan report for gutang.ict.pwr.wroc.pl (156.17.40.61)
+Host is up (0.0017s latency).
+All 1000 scanned ports on gutang.ict.pwr.wroc.pl (156.17.40.61) are filtered
+
+Nmap scan report for hip.ict.pwr.wroc.pl (156.17.40.65)
+Host is up (0.0015s latency).
+All 1000 scanned ports on hip.ict.pwr.wroc.pl (156.17.40.65) are closed
+
+Nmap scan report for hop.ict.pwr.wroc.pl (156.17.40.71)
+Host is up (0.0018s latency).
+All 1000 scanned ports on hop.ict.pwr.wroc.pl (156.17.40.71) are closed
+
+Nmap scan report for blurp.ict.pwr.wroc.pl (156.17.40.73)
+Host is up (0.00076s latency).
+Not shown: 998 filtered ports
+PORT    STATE  SERVICE VERSION
+80/tcp  open   http    Apache httpd 2.4.7
+443/tcp closed https
+
+Nmap scan report for plonk.ict.pwr.wroc.pl (156.17.40.85)
+Host is up (0.00087s latency).
+Not shown: 986 filtered ports
+PORT      STATE  SERVICE       VERSION
+25/tcp    open   smtp          Sendmail 8.14.3/8.14.3/Debian-9.1ubuntu1+bspm1.13+rchk1.22
+443/tcp   open   openvpn       OpenVPN
+5001/tcp  closed commplex-link
+5002/tcp  closed rfe
+5003/tcp  closed filemaker
+5004/tcp  closed avt-profile-1
+5009/tcp  closed airport-admin
+10001/tcp closed scp-config
+10002/tcp closed documentum
+10003/tcp closed documentum_s
+10004/tcp closed emcrmirccd
+10009/tcp closed swdtp-sv
+10010/tcp closed rxapi
+20005/tcp closed btx
+Service Info: OS: Unix
+
+Nmap scan report for tiamat.ict.pwr.wroc.pl (156.17.40.88)
+Host is up (0.0015s latency).
+Not shown: 997 closed ports
+PORT     STATE SERVICE VERSION
+22/tcp   open  ssh     OpenSSH 7.2p2 Ubuntu 4ubuntu2.4 (Ubuntu Linux; protocol 2.0)
+111/tcp  open  rpcbind 2-4 (RPC #100000)
+2049/tcp open  nfs_acl 2-3 (RPC #100227)
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+Nmap scan report for raven.ict.pwr.wroc.pl (156.17.40.89)
+Host is up (0.0010s latency).
+All 1000 scanned ports on raven.ict.pwr.wroc.pl (156.17.40.89) are filtered
+
+Nmap scan report for werewolf.ict.pwr.wroc.pl (156.17.40.90)
+Host is up (0.00064s latency).
+All 1000 scanned ports on werewolf.ict.pwr.wroc.pl (156.17.40.90) are filtered
+
+Nmap scan report for hugin.ict.pwr.wroc.pl (156.17.40.91)
+Host is up (0.00097s latency).
+Not shown: 999 filtered ports
+PORT   STATE SERVICE VERSION
+53/tcp open  domain  (unknown banner: 1000.500.100.900)
+1 service unrecognized despite returning data. If you know the service/version, please submit the following fingerprint at https://nmap.org/cgi-bin/submit.cgi?new-service :
+SF-Port53-TCP:V=7.70%I=7%D=11/8%Time=5BE4549F%P=i686-pc-linux-gnu%r(DNSVer
+SF:sionBindReqTCP,4B,"\0I\0\x06\x85\0\0\x01\0\x01\0\x01\0\0\x07version\x04
+SF:bind\0\0\x10\0\x03\xc0\x0c\0\x10\0\x03\0\0\0\0\0\x11\x101000\.500\.100\
+SF:.900\xc0\x0c\0\x02\0\x03\0\0\0\0\0\x02\xc0\x0c");
+
+Nmap scan report for lucyna.ict.pwr.wroc.pl (156.17.40.92)
+Host is up (0.00053s latency).
+All 1000 scanned ports on lucyna.ict.pwr.wroc.pl (156.17.40.92) are filtered
+
+Nmap scan report for ratatosk.iiar.pwr.edu.pl (156.17.40.93)
+Host is up (0.0013s latency).
+All 1000 scanned ports on ratatosk.iiar.pwr.edu.pl (156.17.40.93) are filtered
+
+Nmap scan report for hip.ict.pwr.wroc.pl (156.17.40.97)
+Host is up (0.0020s latency).
+All 1000 scanned ports on hip.ict.pwr.wroc.pl (156.17.40.97) are closed
+
+Nmap scan report for dyn-40-102.ict.pwr.wroc.pl (156.17.40.102)
+Host is up (0.0012s latency).
+All 1000 scanned ports on dyn-40-102.ict.pwr.wroc.pl (156.17.40.102) are closed
+
+Nmap scan report for dyn-40-103.ict.pwr.wroc.pl (156.17.40.103)
+Host is up (0.0022s latency).
+Not shown: 999 closed ports
+PORT     STATE SERVICE VERSION
+9000/tcp open  http    Portainer Docker UI
+
+Nmap scan report for dyn-40-104.ict.pwr.wroc.pl (156.17.40.104)
+Host is up (0.0010s latency).
+All 1000 scanned ports on dyn-40-104.ict.pwr.wroc.pl (156.17.40.104) are filtered
+
+Nmap scan report for dyn-40-105.ict.pwr.wroc.pl (156.17.40.105)
+Host is up (0.0017s latency).
+All 1000 scanned ports on dyn-40-105.ict.pwr.wroc.pl (156.17.40.105) are closed
+
+Nmap scan report for dyn-40-117.ict.pwr.wroc.pl (156.17.40.117)
+Host is up (0.00067s latency).
+All 1000 scanned ports on dyn-40-117.ict.pwr.wroc.pl (156.17.40.117) are filtered
+
+Nmap scan report for dyn-40-121.ict.pwr.wroc.pl (156.17.40.121)
+Host is up (0.00052s latency).
+All 1000 scanned ports on dyn-40-121.ict.pwr.wroc.pl (156.17.40.121) are filtered
+
+Nmap scan report for dyn-40-122.ict.pwr.wroc.pl (156.17.40.122)
+Host is up (0.00083s latency).
+All 1000 scanned ports on dyn-40-122.ict.pwr.wroc.pl (156.17.40.122) are filtered
+
+Nmap scan report for hop.ict.pwr.wroc.pl (156.17.40.129)
+Host is up (0.0023s latency).
+All 1000 scanned ports on hop.ict.pwr.wroc.pl (156.17.40.129) are closed
+
+Nmap scan report for pong.iiar.pwr.edu.pl (156.17.40.130)
+Host is up (0.0021s latency).
+All 1000 scanned ports on pong.iiar.pwr.edu.pl (156.17.40.130) are closed
+
+Nmap scan report for kpcir.iiar.pwr.edu.pl (156.17.40.131)
+Host is up (0.0017s latency).
+Not shown: 995 closed ports
+PORT     STATE SERVICE        VERSION
+22/tcp   open  tcpwrapped
+53/tcp   open  domain         (generic dns response: NOTIMP)
+80/tcp   open  tcpwrapped
+2000/tcp open  bandwidth-test MikroTik bandwidth-test server
+8291/tcp open  tcpwrapped
+1 service unrecognized despite returning data. If you know the service/version, please submit the following fingerprint at https://nmap.org/cgi-bin/submit.cgi?new-service :
+SF-Port53-TCP:V=7.70%I=7%D=11/8%Time=5BE4549F%P=i686-pc-linux-gnu%r(DNSVer
+SF:sionBindReqTCP,E,"\0\x0c\0\x06\x81\x84\0\0\0\0\0\0\0\0")%r(DNSStatusReq
+SF:uestTCP,E,"\0\x0c\0\0\x90\x84\0\0\0\0\0\0\0\0");
+
+Nmap scan report for freenet.iiar.pwr.edu.pl (156.17.40.134)
+Host is up (0.00035s latency).
+All 1000 scanned ports on freenet.iiar.pwr.edu.pl (156.17.40.134) are filtered
+
+Nmap scan report for hop.ict.pwr.wroc.pl (156.17.40.137)
+Host is up (0.0022s latency).
+All 1000 scanned ports on hop.ict.pwr.wroc.pl (156.17.40.137) are closed
+
+Nmap scan report for hop.ict.pwr.wroc.pl (156.17.40.145)
+Host is up (0.0024s latency).
+All 1000 scanned ports on hop.ict.pwr.wroc.pl (156.17.40.145) are closed
+
+Nmap scan report for swing.ict.pwr.wroc.pl (156.17.40.148)
+Host is up (0.0011s latency).
+Not shown: 988 filtered ports
+PORT     STATE  SERVICE      VERSION
+22/tcp   open   ssh          OpenSSH 7.4p1 Debian 10+deb9u4 (protocol 2.0)
+80/tcp   open   http         Apache httpd 2.4.25 ((Debian))
+143/tcp  closed imap
+631/tcp  closed ipp
+1123/tcp closed murray
+2222/tcp closed EtherNetIP-1
+2522/tcp closed windb
+5802/tcp closed vnc-http-2
+5900/tcp closed vnc
+8022/tcp open   ssh          OpenSSH 7.2p2 Ubuntu 4ubuntu2.2 (Ubuntu Linux; protocol 2.0)
+8080/tcp closed http-proxy
+8088/tcp open   http         nginx
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+Nmap scan report for snow.ict.pwr.wroc.pl (156.17.40.149)
+Host is up (0.00071s latency).
+Not shown: 990 filtered ports
+PORT     STATE  SERVICE          VERSION
+22/tcp   open   ssh              OpenSSH 7.6 (protocol 2.0)
+3306/tcp closed mysql
+5900/tcp closed vnc
+5901/tcp open   vnc              VNC (protocol 3.8)
+5902/tcp closed vnc-2
+5903/tcp closed vnc-3
+8080/tcp open   http             Apache Tomcat 8.5.20
+8081/tcp open   blackice-icecap?
+8082/tcp open   http             Jetty 9.2.10.v20150310
+9000/tcp closed cslistener
+1 service unrecognized despite returning data. If you know the service/version, please submit the following fingerprint at https://nmap.org/cgi-bin/submit.cgi?new-service :
+SF-Port8081-TCP:V=7.70%I=7%D=11/8%Time=5BE4549A%P=i686-pc-linux-gnu%r(GetR
+SF:equest,752,"HTTP/1\.1\x20200\x20\r\nX-Frame-Options:\x20SAMEORIGIN\r\nX
+SF:-XSS-Protection:\x201;\x20mode=block\r\nX-Content-Type-Options:\x20nosn
+SF:iff\r\nCache-Control:\x20no-cache,\x20no-store,\x20must-revalidate\r\nC
+SF:ontent-Type:\x20text/html;charset=utf-8\r\nContent-Length:\x201570\r\nV
+SF:ary:\x20Accept-Encoding\r\nDate:\x20Thu,\x2008\x20Nov\x202018\x2015:22:
+SF:02\x20GMT\r\nConnection:\x20close\r\n\r\n<!DOCTYPE\x20html><html\x20lan
+SF:g=\"en\"><head><meta\x20http-equiv=\"content-type\"\x20content=\"text/h
+SF:tml;\x20charset=UTF-8\"\x20charset=\"UTF-8\"/><meta\x20http-equiv=\"X-U
+SF:A-Compatible\"\x20content=\"IE=edge\"><link\x20rel=\"apple-touch-icon\"
+SF:\x20href=\"/apple-touch-icon\.png\"><link\x20rel=\"apple-touch-icon\"\x
+SF:20sizes=\"57x57\"\x20href=\"/apple-touch-icon-57x57\.png\"><link\x20rel
+SF:=\"apple-touch-icon\"\x20sizes=\"60x60\"\x20href=\"/apple-touch-icon-60
+SF:x60\.png\"><link\x20rel=\"apple-touch-icon\"\x20sizes=\"72x72\"\x20href
+SF:=\"/apple-touch-icon-72x72\.png\"><link\x20rel=\"apple-touch-icon\"\x20
+SF:sizes=\"76x76\"\x20href=\"/apple-touch-icon-76x76\.png\"><link\x20rel=\
+SF:"apple-touch-icon\"\x20sizes=\"114x114\"\x20href=\"/")%r(FourOhFourRequ
+SF:est,752,"HTTP/1\.1\x20200\x20\r\nX-Frame-Options:\x20SAMEORIGIN\r\nX-XS
+SF:S-Protection:\x201;\x20mode=block\r\nX-Content-Type-Options:\x20nosniff
+SF:\r\nCache-Control:\x20no-cache,\x20no-store,\x20must-revalidate\r\nCont
+SF:ent-Type:\x20text/html;charset=utf-8\r\nContent-Length:\x201570\r\nVary
+SF::\x20Accept-Encoding\r\nDate:\x20Thu,\x2008\x20Nov\x202018\x2015:22:02\
+SF:x20GMT\r\nConnection:\x20close\r\n\r\n<!DOCTYPE\x20html><html\x20lang=\
+SF:"en\"><head><meta\x20http-equiv=\"content-type\"\x20content=\"text/html
+SF:;\x20charset=UTF-8\"\x20charset=\"UTF-8\"/><meta\x20http-equiv=\"X-UA-C
+SF:ompatible\"\x20content=\"IE=edge\"><link\x20rel=\"apple-touch-icon\"\x2
+SF:0href=\"/apple-touch-icon\.png\"><link\x20rel=\"apple-touch-icon\"\x20s
+SF:izes=\"57x57\"\x20href=\"/apple-touch-icon-57x57\.png\"><link\x20rel=\"
+SF:apple-touch-icon\"\x20sizes=\"60x60\"\x20href=\"/apple-touch-icon-60x60
+SF:\.png\"><link\x20rel=\"apple-touch-icon\"\x20sizes=\"72x72\"\x20href=\"
+SF:/apple-touch-icon-72x72\.png\"><link\x20rel=\"apple-touch-icon\"\x20siz
+SF:es=\"76x76\"\x20href=\"/apple-touch-icon-76x76\.png\"><link\x20rel=\"ap
+SF:ple-touch-icon\"\x20sizes=\"114x114\"\x20href=\"/");
+
+Nmap scan report for piecyk.iiar.pwr.edu.pl (156.17.40.151)
+Host is up (0.00042s latency).
+All 1000 scanned ports on piecyk.iiar.pwr.edu.pl (156.17.40.151) are filtered
+
+Nmap scan report for hip.ict.pwr.wroc.pl (156.17.40.161)
+Host is up (0.0011s latency).
+All 1000 scanned ports on hip.ict.pwr.wroc.pl (156.17.40.161) are closed
+
+Nmap scan report for gromit.ict.pwr.wroc.pl (156.17.40.162)
+Host is up (0.0011s latency).
+Not shown: 989 closed ports
+PORT     STATE SERVICE  VERSION
+22/tcp   open  ssh      OpenSSH 7.4p1 Debian 10+deb9u4 (protocol 2.0)
+25/tcp   open  smtp     Exim smtpd 4.89
+80/tcp   open  http     Apache httpd 2.4.25 ((Debian))
+110/tcp  open  pop3     Dovecot pop3d
+111/tcp  open  rpcbind  2-4 (RPC #100000)
+143/tcp  open  imap     Dovecot imapd
+636/tcp  open  ssl/ldap OpenLDAP 2.2.X - 2.3.X
+993/tcp  open  ssl/imap Dovecot imapd
+995/tcp  open  ssl/pop3 Dovecot pop3d
+2049/tcp open  nfs_acl  3 (RPC #100227)
+3690/tcp open  svnserve Subversion
+Service Info: Host: gromit; OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+Nmap scan report for gromppp.ict.pwr.wroc.pl (156.17.40.163)
+Host is up (0.0011s latency).
+Not shown: 990 closed ports
+PORT     STATE SERVICE  VERSION
+22/tcp   open  ssh      OpenSSH 7.4p1 Debian 10+deb9u4 (protocol 2.0)
+25/tcp   open  smtp     Exim smtpd 4.89
+80/tcp   open  http     Apache httpd 2.4.25 ((Debian))
+110/tcp  open  pop3     Dovecot pop3d
+111/tcp  open  rpcbind  2-4 (RPC #100000)
+143/tcp  open  imap     Dovecot imapd
+993/tcp  open  ssl/imap Dovecot imapd
+995/tcp  open  ssl/pop3 Dovecot pop3d
+2049/tcp open  nfs_acl  3 (RPC #100227)
+3690/tcp open  svnserve Subversion
+Service Info: Host: gromit; OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+Nmap scan report for comprec-lin.iiar.pwr.wroc.pl (156.17.40.183)
+Host is up (0.0013s latency).
+Not shown: 998 filtered ports
+PORT   STATE SERVICE VERSION
+22/tcp open  ssh     OpenSSH 6.6.1 (protocol 2.0)
+80/tcp open  http    Apache httpd 2.4.6 ((Scientific Linux) mod_wsgi/3.4 Python/2.7.5)
+
+Nmap scan report for acireale.iiar.pwr.wroc.pl (156.17.40.184)
+Host is up (0.00097s latency).
+Not shown: 998 closed ports
+PORT     STATE SERVICE       VERSION
+22/tcp   open  ssh           OpenSSH 7.2p2 Ubuntu 4ubuntu2.1 (Ubuntu Linux; protocol 2.0)
+3390/tcp open  ms-wbt-server VirtualBox VM Remote Desktop Service
+Service Info: OSs: Linux, Windows; CPE: cpe:/o:linux:linux_kernel, cpe:/o:microsoft:windows
+
+Nmap scan report for hip.ict.pwr.wroc.pl (156.17.40.193)
+Host is up (0.0016s latency).
+All 1000 scanned ports on hip.ict.pwr.wroc.pl (156.17.40.193) are closed
+
+Nmap scan report for dyn-40-197.ict.pwr.wroc.pl (156.17.40.197)
+Host is up (0.0012s latency).
+Not shown: 998 closed ports
+PORT     STATE SERVICE VERSION
+22/tcp   open  ssh     (protocol 2.0)
+3306/tcp open  mysql   MySQL 5.5.5-10.1.23-MariaDB-9+deb9u1
+1 service unrecognized despite returning data. If you know the service/version, please submit the following fingerprint at https://nmap.org/cgi-bin/submit.cgi?new-service :
+SF-Port22-TCP:V=7.70%I=7%D=11/8%Time=5BE454A1%P=i686-pc-linux-gnu%r(NULL,2
+SF:9,"SSH-2\.0-OpenSSH_7\.4p1\x20Raspbian-10\+deb9u1\n");
+
+Nmap scan report for dyn-40-203.ict.pwr.wroc.pl (156.17.40.203)
+Host is up (0.0011s latency).
+Not shown: 999 closed ports
+PORT   STATE SERVICE VERSION
+22/tcp open  ssh     OpenSSH 7.4p1 Debian 10+deb9u4 (protocol 2.0)
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+Nmap scan report for dyn-40-208.ict.pwr.wroc.pl (156.17.40.208)
+Host is up (0.0018s latency).
+Not shown: 999 closed ports
+PORT   STATE SERVICE VERSION
+22/tcp open  ssh     OpenSSH 6.6.1p1 Ubuntu 2ubuntu2.10 (Ubuntu Linux; protocol 2.0)
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+Nmap scan report for dyn-40-209.ict.pwr.wroc.pl (156.17.40.209)
+Host is up (0.0013s latency).
+Not shown: 996 closed ports
+PORT     STATE SERVICE      VERSION
+80/tcp   open  http         Virata-EmWeb 6.0.1 (HP LaserJet 3052 printer http config)
+139/tcp  open  netbios-ssn?
+515/tcp  open  printer
+9100/tcp open  jetdirect?
+Service Info: Device: printer
+
+Nmap scan report for dyn-40-220.ict.pwr.wroc.pl (156.17.40.220)
+Host is up (0.00070s latency).
+All 1000 scanned ports on dyn-40-220.ict.pwr.wroc.pl (156.17.40.220) are filtered
+
+Nmap scan report for actina.eka.pwr.wroc.pl (156.17.40.251)
+Host is up (0.00097s latency).
+Not shown: 998 filtered ports
+PORT    STATE  SERVICE VERSION
+80/tcp  open   http    Apache httpd 2.2.14
+113/tcp closed ident
+
+Nmap scan report for perezoso.eka.pwr.wroc.pl (156.17.40.253)
+Host is up (0.00060s latency).
+All 1000 scanned ports on perezoso.eka.pwr.wroc.pl (156.17.40.253) are filtered
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 256 IP addresses (46 hosts up) scanned in 77.67 seconds
+
+Starting Nmap 7.70 ( https://nmap.org ) at 2018-12-06 15:50 CET
+Nmap scan report for lab12-gw.technopolis.iiar.pwr.edu.pl (10.104.34.1)
+Host is up (0.0047s latency).
+All 1000 scanned ports on lab12-gw.technopolis.iiar.pwr.edu.pl (10.104.34.1) are closed
+
+Nmap scan report for serwer-l12.technopolis.iiar.pwr.edu.pl (10.104.34.62)
+Host is up (0.0012s latency).
+Not shown: 995 filtered ports
+PORT      STATE SERVICE            VERSION
+135/tcp   open  msrpc              Microsoft Windows RPC
+139/tcp   open  netbios-ssn        Microsoft Windows netbios-ssn
+3389/tcp  open  ssl/ms-wbt-server?
+49154/tcp open  msrpc              Microsoft Windows RPC
+49155/tcp open  msrpc              Microsoft Windows RPC
+Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+
+Nmap scan report for lab13-gw.technopolis.iiar.pwr.edu.pl (10.104.34.65)
+Host is up (0.00085s latency).
+All 1000 scanned ports on lab13-gw.technopolis.iiar.pwr.edu.pl (10.104.34.65) are closed
+
+Nmap scan report for lab13-30.technopolis.iiar.pwr.edu.pl (10.104.34.95)
+Host is up (0.0011s latency).
+All 1000 scanned ports on lab13-30.technopolis.iiar.pwr.edu.pl (10.104.34.95) are filtered
+
+Nmap scan report for lab14-gw.technopolis.iiar.pwr.edu.pl (10.104.34.129)
+Host is up (0.00092s latency).
+All 1000 scanned ports on lab14-gw.technopolis.iiar.pwr.edu.pl (10.104.34.129) are closed
+
+Nmap scan report for lab14-32.technopolis.iiar.pwr.edu.pl (10.104.34.161)
+Host is up (0.0037s latency).
+Not shown: 999 closed ports
+PORT   STATE SERVICE VERSION
+80/tcp open  http    Cisco SPA502G http config
+Service Info: Device: VoIP phone; CPE: cpe:/h:cisco:spa502g
+
+Nmap scan report for lab21-gw.technopolis.iiar.pwr.edu.pl (10.104.34.193)
+Host is up (0.0021s latency).
+All 1000 scanned ports on lab21-gw.technopolis.iiar.pwr.edu.pl (10.104.34.193) are closed
+MAC Address: 00:1B:54:77:94:D6 (Cisco Systems)
+
+Nmap scan report for lab21-01.technopolis.iiar.pwr.edu.pl (10.104.34.194)
+Host is up (0.00076s latency).
+Not shown: 995 closed ports
+PORT     STATE SERVICE         VERSION
+22/tcp   open  ssh             OpenSSH 7.2p2 Ubuntu 4ubuntu2.4 (Ubuntu Linux; protocol 2.0)
+25/tcp   open  smtp            Postfix smtpd
+902/tcp  open  ssl/vmware-auth VMware Authentication Daemon 1.10 (Uses VNC, SOAP)
+4443/tcp open  ssl/pharos?
+8080/tcp open  http            Apache httpd 2.4.18 ((Ubuntu))
+MAC Address: 44:8A:5B:CB:E6:ED (Micro-Star INT'L)
+Service Info: Host:  lab21-01.technopolis.iiar.pwr.edu.pl; OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+Nmap scan report for lab21-02.technopolis.iiar.pwr.edu.pl (10.104.34.195)
+Host is up (0.00068s latency).
+Not shown: 996 closed ports
+PORT     STATE SERVICE         VERSION
+22/tcp   open  ssh             OpenSSH 7.2p2 Ubuntu 4ubuntu2.4 (Ubuntu Linux; protocol 2.0)
+25/tcp   open  smtp            Postfix smtpd
+902/tcp  open  ssl/vmware-auth VMware Authentication Daemon 1.10 (Uses VNC, SOAP)
+3306/tcp open  mysql           MySQL (unauthorized)
+MAC Address: 44:8A:5B:CB:E7:66 (Micro-Star INT'L)
+Service Info: Host:  lab21-02.technopolis.iiar.pwr.edu.pl; OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+Nmap scan report for lab21-05.technopolis.iiar.pwr.edu.pl (10.104.34.198)
+Host is up (0.00065s latency).
+Not shown: 996 closed ports
+PORT    STATE SERVICE         VERSION
+22/tcp  open  ssh             OpenSSH 7.2p2 Ubuntu 4ubuntu2.4 (Ubuntu Linux; protocol 2.0)
+80/tcp  open  http            Apache httpd 2.4.18 ((Ubuntu))
+443/tcp open  ssl/http        Apache httpd 2.4.18 ((Ubuntu))
+902/tcp open  ssl/vmware-auth VMware Authentication Daemon 1.10 (Uses VNC, SOAP)
+MAC Address: 44:8A:5B:CB:E6:E5 (Micro-Star INT'L)
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+Nmap scan report for lab21-08.technopolis.iiar.pwr.edu.pl (10.104.34.201)
+Host is up (0.00054s latency).
+Not shown: 996 closed ports
+PORT    STATE SERVICE         VERSION
+22/tcp  open  ssh             OpenSSH 7.2p2 Ubuntu 4ubuntu2.4 (Ubuntu Linux; protocol 2.0)
+80/tcp  open  http            Apache httpd 2.4.18 ((Ubuntu))
+443/tcp open  ssl/https       Apache/2.4.18 (Ubuntu)
+902/tcp open  ssl/vmware-auth VMware Authentication Daemon 1.10 (Uses VNC, SOAP)
+MAC Address: 44:8A:5B:CB:E6:EC (Micro-Star INT'L)
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+Nmap scan report for lab21-09.technopolis.iiar.pwr.edu.pl (10.104.34.202)
+Host is up (0.00070s latency).
+Not shown: 996 closed ports
+PORT    STATE SERVICE         VERSION
+22/tcp  open  ssh             OpenSSH 7.2p2 Ubuntu 4ubuntu2.4 (Ubuntu Linux; protocol 2.0)
+25/tcp  open  smtp            Postfix smtpd
+80/tcp  open  http            Apache httpd 2.4.18 ((Ubuntu))
+902/tcp open  ssl/vmware-auth VMware Authentication Daemon 1.10 (Uses VNC, SOAP)
+MAC Address: 44:8A:5B:CB:E4:17 (Micro-Star INT'L)
+Service Info: Host:  lab21-10.technopolis.iiar.pwr.edu.pl; OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+Nmap scan report for lab21-10.technopolis.iiar.pwr.edu.pl (10.104.34.203)
+Host is up (0.00080s latency).
+Not shown: 996 closed ports
+PORT    STATE SERVICE         VERSION
+22/tcp  open  ssh             OpenSSH 7.2p2 Ubuntu 4ubuntu2.4 (Ubuntu Linux; protocol 2.0)
+25/tcp  open  smtp            Postfix smtpd
+80/tcp  open  http            Apache httpd 2.4.18 ((Ubuntu))
+902/tcp open  ssl/vmware-auth VMware Authentication Daemon 1.10 (Uses VNC, SOAP)
+MAC Address: 44:8A:5B:CB:E6:EF (Micro-Star INT'L)
+Service Info: Host:  lab21-10.technopolis.iiar.pwr.edu.pl; OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+Nmap scan report for lab21-12.technopolis.iiar.pwr.edu.pl (10.104.34.205)
+Host is up (0.00087s latency).
+Not shown: 998 closed ports
+PORT    STATE SERVICE         VERSION
+22/tcp  open  ssh             OpenSSH 7.2p2 Ubuntu 4ubuntu2.4 (Ubuntu Linux; protocol 2.0)
+902/tcp open  ssl/vmware-auth VMware Authentication Daemon 1.10 (Uses VNC, SOAP)
+MAC Address: 44:8A:5B:CB:E7:08 (Micro-Star INT'L)
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+Nmap scan report for lab21-13.technopolis.iiar.pwr.edu.pl (10.104.34.206)
+Host is up (0.00093s latency).
+Not shown: 996 closed ports
+PORT    STATE SERVICE         VERSION
+22/tcp  open  ssh             OpenSSH 7.2p2 Ubuntu 4ubuntu2.4 (Ubuntu Linux; protocol 2.0)
+80/tcp  open  http            Apache httpd 2.4.18 ((Ubuntu))
+443/tcp open  ssl/https       Apache/2.4.18 (Ubuntu)
+902/tcp open  ssl/vmware-auth VMware Authentication Daemon 1.10 (Uses VNC, SOAP)
+MAC Address: 44:8A:5B:CB:E4:4A (Micro-Star INT'L)
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+Nmap scan report for lab21-17.technopolis.iiar.pwr.edu.pl (10.104.34.210)
+Host is up (0.00022s latency).
+Not shown: 993 filtered ports
+PORT     STATE SERVICE        VERSION
+135/tcp  open  msrpc          Microsoft Windows RPC
+139/tcp  open  netbios-ssn    Microsoft Windows netbios-ssn
+445/tcp  open  microsoft-ds?
+6002/tcp open  http           SafeNet Sentinel Protection Server 7.3
+7001/tcp open  afs3-callback?
+7002/tcp open  http           SafeNet Sentinel Keys License Monitor httpd 1.3.2 (Java Console)
+9503/tcp open  unknown
+1 service unrecognized despite returning data. If you know the service/version, please submit the following fingerprint at https://nmap.org/cgi-bin/submit.cgi?new-service :
+SF-Port9503-TCP:V=7.70%I=7%D=11/15%Time=5BED882F%P=i686-pc-linux-gnu%r(Gen
+SF:ericLines,2F,"HTTP/1\.1\x20400\x20Bad\x20Request\r\nConnection:\x20Clos
+SF:e\r\n\r\n")%r(GetRequest,39,"HTTP/1\.1\x20500\x20Internal\x20Server\x20
+SF:Error\r\nConnection:\x20Close\r\n\r\n")%r(HTTPOptions,39,"HTTP/1\.1\x20
+SF:500\x20Internal\x20Server\x20Error\r\nConnection:\x20Close\r\n\r\n")%r(
+SF:RTSPRequest,39,"HTTP/1\.1\x20500\x20Internal\x20Server\x20Error\r\nConn
+SF:ection:\x20Close\r\n\r\n")%r(SSLSessionReq,2F,"HTTP/1\.1\x20400\x20Bad\
+SF:x20Request\r\nConnection:\x20Close\r\n\r\n")%r(TLSSessionReq,2F,"HTTP/1
+SF:\.1\x20400\x20Bad\x20Request\r\nConnection:\x20Close\r\n\r\n")%r(FourOh
+SF:FourRequest,39,"HTTP/1\.1\x20500\x20Internal\x20Server\x20Error\r\nConn
+SF:ection:\x20Close\r\n\r\n")%r(SIPOptions,39,"HTTP/1\.1\x20500\x20Interna
+SF:l\x20Server\x20Error\r\nConnection:\x20Close\r\n\r\n");
+MAC Address: 78:24:AF:B3:6B:6E (Asustek Computer)
+Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+
+Nmap scan report for lab21-18.technopolis.iiar.pwr.edu.pl (10.104.34.211)
+Host is up (0.00086s latency).
+Not shown: 993 closed ports
+PORT      STATE SERVICE    VERSION
+22/tcp    open  ssh        OpenSSH 5.5p1 Debian 5 (protocol 2.0)
+80/tcp    open  http       GoAhead WebServer
+427/tcp   open  svrloc?
+443/tcp   open  ssl/https?
+5120/tcp  open  ipmi-usb   IPMI USB redirection
+5988/tcp  open  wbem-http?
+50000/tcp open  upnp       SuperMicro IPMI UPnP
+1 service unrecognized despite returning data. If you know the service/version, please submit the following fingerprint at https://nmap.org/cgi-bin/submit.cgi?new-service :
+SF-Port5988-TCP:V=7.70%I=7%D=11/15%Time=5BED8835%P=i686-pc-linux-gnu%r(Gen
+SF:ericLines,47,"HTTP/1\.1\x20405\x20Method\x20Not\x20Allowed\r\nConnectio
+SF:n:Close\r\nContent-Length:0\r\n\r\n")%r(GetRequest,47,"HTTP/1\.1\x20405
+SF:\x20Method\x20Not\x20Allowed\r\nConnection:Close\r\nContent-Length:0\r\
+SF:n\r\n")%r(HTTPOptions,47,"HTTP/1\.1\x20405\x20Method\x20Not\x20Allowed\
+SF:r\nConnection:Close\r\nContent-Length:0\r\n\r\n")%r(RTSPRequest,47,"HTT
+SF:P/1\.1\x20405\x20Method\x20Not\x20Allowed\r\nConnection:Close\r\nConten
+SF:t-Length:0\r\n\r\n")%r(Help,47,"HTTP/1\.1\x20405\x20Method\x20Not\x20Al
+SF:lowed\r\nConnection:Close\r\nContent-Length:0\r\n\r\n")%r(FourOhFourReq
+SF:uest,47,"HTTP/1\.1\x20405\x20Method\x20Not\x20Allowed\r\nConnection:Clo
+SF:se\r\nContent-Length:0\r\n\r\n")%r(SIPOptions,47,"HTTP/1\.1\x20405\x20M
+SF:ethod\x20Not\x20Allowed\r\nConnection:Close\r\nContent-Length:0\r\n\r\n
+SF:");
+MAC Address: 0C:C4:7A:1B:9F:87 (Super Micro Computer)
+Service Info: OS: Linux; Device: remote management; CPE: cpe:/o:linux:linux_kernel, cpe:/o:supermicro:intelligent_platform_management_firmware
+
+Nmap scan report for lab21-31.technopolis.iiar.pwr.edu.pl (10.104.34.224)
+Host is up (0.0021s latency).
+Not shown: 993 filtered ports
+PORT     STATE SERVICE      VERSION
+135/tcp  open  msrpc        Microsoft Windows RPC
+139/tcp  open  netbios-ssn  Microsoft Windows netbios-ssn
+445/tcp  open  microsoft-ds Microsoft Windows 7 - 10 microsoft-ds (workgroup: AXXIOME)
+999/tcp  open  garcon?
+1026/tcp open  msrpc        Microsoft Windows RPC
+1027/tcp open  msrpc        Microsoft Windows RPC
+1029/tcp open  msrpc        Microsoft Windows RPC
+MAC Address: 20:47:47:D5:FC:C5 (Dell)
+Service Info: Host: TCZ-PL-01; OS: Windows; CPE: cpe:/o:microsoft:windows
+
+Nmap scan report for lab21-33.technopolis.iiar.pwr.edu.pl (10.104.34.226)
+Host is up (0.0012s latency).
+All 1000 scanned ports on lab21-33.technopolis.iiar.pwr.edu.pl (10.104.34.226) are closed
+MAC Address: 08:00:27:FA:83:8B (Oracle VirtualBox virtual NIC)
+
+Nmap scan report for lab21-38.technopolis.iiar.pwr.edu.pl (10.104.34.231)
+Host is up (0.0023s latency).
+All 1000 scanned ports on lab21-38.technopolis.iiar.pwr.edu.pl (10.104.34.231) are closed
+MAC Address: 08:00:27:33:A1:6A (Oracle VirtualBox virtual NIC)
+
+Nmap scan report for lab21-42.technopolis.iiar.pwr.edu.pl (10.104.34.235)
+Host is up (0.00067s latency).
+All 1000 scanned ports on lab21-42.technopolis.iiar.pwr.edu.pl (10.104.34.235) are closed
+MAC Address: 08:00:27:B4:F4:6E (Oracle VirtualBox virtual NIC)
+
+Nmap scan report for lab21-44.technopolis.iiar.pwr.edu.pl (10.104.34.237)
+Host is up (0.00094s latency).
+All 1000 scanned ports on lab21-44.technopolis.iiar.pwr.edu.pl (10.104.34.237) are closed
+MAC Address: 08:00:27:A5:E5:45 (Oracle VirtualBox virtual NIC)
+
+Nmap scan report for lab21-45.technopolis.iiar.pwr.edu.pl (10.104.34.238)
+Host is up (0.0011s latency).
+All 1000 scanned ports on lab21-45.technopolis.iiar.pwr.edu.pl (10.104.34.238) are closed
+MAC Address: 08:00:27:37:8C:6F (Oracle VirtualBox virtual NIC)
+
+Nmap scan report for supermicro.technopolis.iiar.pwr.edu.pl (10.104.34.254)
+Host is up (0.00078s latency).
+Not shown: 997 closed ports
+PORT    STATE SERVICE VERSION
+22/tcp  open  ssh     OpenSSH 6.6.1p1 Ubuntu 2ubuntu2 (Ubuntu Linux; protocol 2.0)
+80/tcp  open  http    Apache httpd 2.4.7 ((Ubuntu))
+111/tcp open  rpcbind 2-4 (RPC #100000)
+MAC Address: 0C:C4:7A:15:47:E6 (Super Micro Computer)
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+Nmap scan report for lab21-39.technopolis.iiar.pwr.edu.pl (10.104.34.232)
+Host is up (0.0000040s latency).
+All 1000 scanned ports on lab21-39.technopolis.iiar.pwr.edu.pl (10.104.34.232) are closed
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 256 IP addresses (25 hosts up) scanned in 274.94 seconds
